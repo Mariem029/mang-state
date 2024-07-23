@@ -1,0 +1,13 @@
+.task-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .task-item.completed {
+    background-color: #e0ffe0;
+  }
+  
+  button {
+    margin-right: 5px;
+  }
